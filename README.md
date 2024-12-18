@@ -83,6 +83,13 @@
 <br>
 </div>
 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kaonashiz/kaonashiz/output/snake.svg" alt="Snake animation" />
+
+###
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A80099&height=120&section=footer"/>
 
 
